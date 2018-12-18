@@ -1,0 +1,50 @@
+@import 'theme';
+@import 'flex';
+
+.emojipicker-container {
+  border: 1px solid #a0a0a0;
+  display: inline-block;
+
+
+  .emojipicker-category-container {
+    @include flexbox;
+    @include justify-content(space-between);
+    @include align-items(center);
+    border-bottom: 1px solid $colorCategoryBorder;
+
+    .emojipicker-category {
+      margin: 0 4px;
+      border-bottom: 3px solid transparent;
+      cursor: pointer;
+      &.active {
+        border-bottom: 3px solid $colorActive;
+      }
+      svg {
+        width: 16px;
+        path {
+          fill: $colorCategoryIcons;
+        }
+      }
+    }
+  }
+
+  .emojipicker-emoji-container {
+    max-width: 300px;
+    max-height: 250px;
+    overflow-y: scroll;
+
+    .emojipicker-emoji-category {
+      .emojipicker-emojis {
+        @include flexbox;
+        @include flex-wrap(wrap);
+
+        .emojipicker-emoji {
+          margin: 0 2px;
+          font-size: 16px;
+          cursor: pointer;
+        }
+
+      }
+    }
+  }
+}

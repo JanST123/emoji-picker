@@ -1,0 +1,25 @@
+{
+  "name": "emoji-picker",
+  "version": "0.0.1",
+  "description": "Lightweight emoji picker built on js.js",
+  "main": "dist/picker.min.js",
+  "scripts": {
+    "start": "webpack-dev-server --config './webpack.config.dev.js'",
+    "compile": "webpack"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.15",
+    "emojilib": "^2.4.0",
+    "janst123_js.js": "^0.8.8"
+  },
+  "devDependencies": {
+    "css-loader": "^2.0.1",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "svg-inline-loader": "^0.8.0",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
