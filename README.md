@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/lightweight-emoji-picker.svg)](https://badge.fury.io/js/lightweight-emoji-picker)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/JanST123/lightweight-emoji-picker/master/LICENSE.md)
+
 # Lightweight emoji picker
 
 This emoji picker has only what you need, and it's size wights **less than 250KB** including styles and the icons.
