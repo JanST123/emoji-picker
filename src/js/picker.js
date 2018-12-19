@@ -237,6 +237,7 @@ var EmojiPicker = /** @class */ (function() {
   };
 
   EmojiPicker.prototype.hide = function() {
+    if (!this.visible) return;
     js.removeEl(container);
     this.visible=false;
   };
@@ -245,6 +246,7 @@ var EmojiPicker = /** @class */ (function() {
    * create the picker and make it visible
    */
   EmojiPicker.prototype.show = function() {
+    if (this.visible) return;
     this.visible=true;
     container = js.addEl(this.targetEl, 'div', 'emojipicker-container', 'after');
 

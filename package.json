@@ -1,7 +1,14 @@
 {
-  "name": "emoji-picker",
+  "name": "lightweight-emoji-picker",
   "version": "0.0.1",
   "description": "Lightweight emoji picker built on js.js",
+  "author": "Jan Stuhlmann <info@jan-stuhlmann.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JanST123/emoji-picker.git"
+  },
+"homepage": "https://github.com/JanST123/emoji-picker.git",
   "main": "dist/picker.min.js",
   "scripts": {
     "start": "webpack-dev-server --config './webpack.config.dev.js'",
