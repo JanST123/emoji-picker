@@ -6,7 +6,7 @@
 This emoji picker has only what you need, and it's size wights **less than 250KB** including styles and the icons.
 This picker uses the *emojilib* from muan: https://github.com/muan/emojilib
 
-[http://htmlpreview.github.io/?https://raw.githubusercontent.com/JanST123/emoji-picker/master/dist/demo.html](Demo)
+[Demo](http://htmlpreview.github.io/?https://raw.githubusercontent.com/JanST123/emoji-picker/master/dist/demo.html)
 
 ## Usage
 ### With npm
