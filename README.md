@@ -8,7 +8,7 @@ This picker uses the *emojilib* from muan: https://github.com/muan/emojilib
 
 ![Preview](https://raw.githubusercontent.com/JanST123/emoji-picker/master/dist/preview.png)
 
-[Demo](http://htmlpreview.github.io/?https://raw.githubusercontent.com/JanST123/emoji-picker/master/dist/demo.html)
+[Demo](https://janst123.github.io/emoji-picker/demo/demo.html)
 
 ## Usage
 ### With npm
