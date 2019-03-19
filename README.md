@@ -1,6 +1,7 @@
 [![npm version](https://badge.fury.io/js/lightweight-emoji-picker.svg)](https://badge.fury.io/js/lightweight-emoji-picker)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://github.com/JanST123/emoji-picker/blob/master/LICENSE)
 
+
 # Lightweight emoji picker
 
 This emoji picker has only what you need, and it's size wights **less than 250KB** including styles and the icons.
@@ -46,3 +47,5 @@ There a three methods you can use:
     
 # License
 This project is published under the [MIT License](https://github.com/JanST123/emoji-picker/blob/master/LICENSE)
+
+![Browserstack](https://raw.githubusercontent.com/JanST123/emoji-picker/master/Browserstack-logo@2x.png "Browserstack Logo")
