@@ -20,6 +20,7 @@ This picker uses the *emojilib* from muan: https://github.com/muan/emojilib
 Download the `dist/picker.js` file from this repository and load it into your website.
 
 ![Browserstack](https://raw.githubusercontent.com/JanST123/emoji-picker/master/browserstack-logo-600x315.png "Browserstack Logo")
+
 **Tested with Browserstack**
 
 
