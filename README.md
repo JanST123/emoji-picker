@@ -19,6 +19,9 @@ This picker uses the *emojilib* from muan: https://github.com/muan/emojilib
 ### Without npm
 Download the `dist/picker.js` file from this repository and load it into your website.
 
+![Browserstack](https://raw.githubusercontent.com/JanST123/emoji-picker/master/browserstack-logo-600x315.png "Browserstack Logo")
+**Tested with Browserstack**
+
 
 ## Setup
 
@@ -48,4 +51,4 @@ There a three methods you can use:
 # License
 This project is published under the [MIT License](https://github.com/JanST123/emoji-picker/blob/master/LICENSE)
 
-![Browserstack](https://raw.githubusercontent.com/JanST123/emoji-picker/master/Browserstack-logo@2x.png "Browserstack Logo")
+
