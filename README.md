@@ -1,5 +1,5 @@
 [![npm version](https://badge.fury.io/js/lightweight-emoji-picker.svg)](https://badge.fury.io/js/lightweight-emoji-picker)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/JanST123/lightweight-emoji-picker/master/LICENSE.md)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=plastic)](https://raw.githubusercontent.com/JanST123/lightweight-emoji-picker/master/LICENSE)
 
 # Lightweight emoji picker
 
@@ -42,3 +42,7 @@ There a three methods you can use:
     picker.toggle(); // toggles the visible state of the picker
     picker.show(); // shows the picker
     picker.hide(); // hides the picker
+    
+    
+# License
+This project is published under the [MIT License](https://github.com/JanST123/emoji-picker/edit/master/LICENSE)
